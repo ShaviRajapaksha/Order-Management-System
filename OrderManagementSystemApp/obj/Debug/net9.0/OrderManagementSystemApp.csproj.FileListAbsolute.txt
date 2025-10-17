@@ -193,3 +193,4 @@
 /Users/shavindurajapaksha/Files/Projects/Order Management System/OrderManagementSystemApp/obj/Debug/net9.0/OrderManagementSystemApp.pdb
 /Users/shavindurajapaksha/Files/Projects/Order Management System/OrderManagementSystemApp/obj/Debug/net9.0/OrderManagementSystemApp.genruntimeconfig.cache
 /Users/shavindurajapaksha/Files/Projects/Order Management System/OrderManagementSystemApp/obj/Debug/net9.0/ref/OrderManagementSystemApp.dll
+/Users/shavindurajapaksha/Files/Projects/Order Management System/OrderManagementSystemApp/obj/Debug/net9.0/OrderManagementSystemApp.sourcelink.json
